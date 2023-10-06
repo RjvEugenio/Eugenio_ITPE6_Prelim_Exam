@@ -1,5 +1,3 @@
-This is your prelim laboratory exam.
+Romeo Jersen V. Eugenio III
+July 30, 2001
 
-Use everything you learned (if there is) in solving this repository.
-
-Goodluck!
